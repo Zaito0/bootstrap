@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+.container-fluid  .navbar-brand img {
+   width: 100px;
+.tabla{
+    background-color: green;
+    padding: 30px;
+    margin: 30px;
+}
+.mb-3{
+    color: white;
+    text-align: center;
+}
+.col-auto{
+    text-align: center;
+}
+.real{
+    text-align: end;
+}
+.Fin img{
+    width: 100px;
+}
+.Fin{
+    align-content: center;
+    text-align: center;
+}
+
+.col{
+   padding-left: 30px;
+   padding-right: 30px;
+}
+
